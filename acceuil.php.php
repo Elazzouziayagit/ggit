@@ -1,5 +1,5 @@
 <?php
-    // Ceci est un exemple de code PHP qui pourrait être utilisé
+    // Ceci est un Exemple de code PHP qui pourrait être utilisé
     $username = "Utilisateur"; // On pourrait récupérer ce nom depuis une session, une base de données, etc.
 ?>
 <!DOCTYPE html>
